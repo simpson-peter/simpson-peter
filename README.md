@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm a student @ USC 🌆 from New York 🏙
+I'm from New York, and currently a student @ USC
 
 - 💼 Software engineering intern @ [Very Good Ventures](https://verygood.ventures/)
 - 🖥️ [petersimpson.me](https://petersimpson.me/)
