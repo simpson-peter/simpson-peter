@@ -1,8 +1,8 @@
 ### Hi there 👋 
 I'm a student @ USC 🌆 from New York 🏙
 
-- 💼 I’m a software engineering intern @ [Very Good Ventures](https://verygood.ventures/)
-- 🖥️ Read more about me and my work @ [petersimpson.me](https://petersimpson.me/)
+- 💼 Software engineering intern @ [Very Good Ventures](https://verygood.ventures/)
+- 🖥️ [petersimpson.me](https://petersimpson.me/)
 - ⚡ Fun fact: I make a great goulash and dumplings.
 
 ### 🛠️ Technologies and Tools
