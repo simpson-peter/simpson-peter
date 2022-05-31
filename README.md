@@ -1,7 +1,7 @@
 ### Hi there 👋 
-I'm from New York, and currently a student @ USC.
+I'm from New York, and currently a masters student @ USC.
 
-- 💼 Software engineering intern @ [Very Good Ventures](https://verygood.ventures/)
+- 💼 Software Engineer @ [Very Good Ventures](https://verygood.ventures/)
 - 🖥️ [petersimpson.me](https://petersimpson.me/)
 
 ### 🛠️ Technologies and Tools
