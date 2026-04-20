@@ -1,4 +1,4 @@
 ### Hi there 👋 
-- 💼 Software Engineer @ [Very Good Ventures.](https://verygood.ventures/)
+- 💼 Software Engineer
 - 🎓 Computer Science M.Sc. @ USC.
 - 🖥️ [petersimpson.me](https://petersimpson.me/)
