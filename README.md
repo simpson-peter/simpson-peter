@@ -1,3 +1,1 @@
-- 💼 Software Engineer
-- 🎓 M.Sc. @ USC.
-- 🖥️ [petersimpson.me](https://petersimpson.me/)
+
